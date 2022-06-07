@@ -18,7 +18,7 @@ const CONFIG = {
 
 	// Greetings
 	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
+	greetingAfternoon: 'Good afternoon mf,',
 	greetingEvening: 'Good evening,',
 	greetingNight: 'Go to Sleep!',
 
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
